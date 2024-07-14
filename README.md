@@ -26,12 +26,6 @@ We do not hold any responsibility for any illegal usage of the codebase. Please 
 
 [Fish Audio](https://fish.audio/zh-CN/)
 
-## Documents / 文档
-
-- [English](https://speech.fish.audio/en/)
-- [中文](https://speech.fish.audio/)
-- [日本語](https://speech.fish.audio/ja/)
-
 ## Samples / 例子
 
 - [English](https://speech.fish.audio/en/samples/)
@@ -40,5 +34,4 @@ We do not hold any responsibility for any illegal usage of the codebase. Please 
 
 ## Website/网站
 
-<div>
-  <a href="https://fish.audio/zh-CN/">
+https://fish.audio/zh-CN/
