@@ -1,14 +1,10 @@
 # Fish Speech
 
-# Warning: We are updating code to fish-speech 1.2, the last stable branch is [1.1.2](https://github.com/fishaudio/fish-speech/tree/v1.1.2)
-
 <div>
 <a target="_blank" href="https://discord.gg/Es5qTB9BcN">
 <img alt="Discord" src="https://img.shields.io/discord/1214047546020728892?color=%23738ADB&label=Discord&logo=discord&logoColor=white&style=flat-square"/>
 </a>
 <a target="_blank" href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=jCKlUP7QgSm9kh95UlBoYv6s1I-Apl1M&authKey=xI5ttVAp3do68IpEYEalwXSYZFdfxZSkah%2BctF5FIMyN2NqAa003vFtLqJyAVRfF&noverify=0&group_code=593946093">
-<img alt="QQ" src="https://img.shields.io/badge/QQ Group-%2312B7F5?logo=tencent-qq&logoColor=white&style=flat-square"/>
-</a>
 <a target="_blank" href="https://hub.docker.com/r/lengyue233/fish-speech">
 <img alt="Docker" src="https://img.shields.io/docker/pulls/lengyue233/fish-speech?style=flat-square&logo=docker"/>
 </a>
@@ -28,17 +24,7 @@ We do not hold any responsibility for any illegal usage of the codebase. Please 
 
 ## Online Demo
 
-[Fish Audio](https://fish.audio)
-
-## Quick Start
-
-[inference.ipynb](https://nbviewer.org/github/AnyaCoder/fish-speech/blob/main/inference.ipynb)
-
-## Videos
-
-#### Demo Video: https://www.bilibili.com/video/BV1wz421B71D
-
-#### Tech slides Video: https://www.bilibili.com/video/BV1zJ4m1K7cj
+[Fish Audio](https://fish.audio/zh-CN/)
 
 ## Documents / 文档
 
@@ -52,28 +38,7 @@ We do not hold any responsibility for any illegal usage of the codebase. Please 
 - [中文](https://speech.fish.audio/samples/)
 - [日本語](https://speech.fish.audio/ja/samples/)
 
-## Credits / 鸣谢
-
-- [VITS2 (daniilrobnikov)](https://github.com/daniilrobnikov/vits2)
-- [Bert-VITS2](https://github.com/fishaudio/Bert-VITS2)
-- [GPT VITS](https://github.com/innnky/gpt-vits)
-- [MQTTS](https://github.com/b04901014/MQTTS)
-- [GPT Fast](https://github.com/pytorch-labs/gpt-fast)
-- [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
-
-## Sponsor / 赞助
+## Website/网站
 
 <div>
-  <a href="https://6block.com/">
-    <img src="https://avatars.githubusercontent.com/u/60573493" width="100" height="100" alt="6Block Avatar"/>
-  </a>
-  <br>
-  <a href="https://6block.com/">数据处理服务器由 6Block 提供 (Data Processing sponsor by 6Block)</a>
-</div>
-<div>
-  <a href="http://fs.firefly.matce.cn/">
-    <img src="https://dice-forum.s3.ap-northeast-1.amazonaws.com/2024-05-10/1715299538-382065-04170e083d92c5e0eeff534d6e7704ee.jpg" width="158" height="80" alt="6Block Avatar"/>
-  </a>
-  <br>
-  <a href="http://fs.firefly.matce.cn/">在线推理Demo服务器由淮北艾阿网络科技有限公司提供 (Online inference sponsor)</a>
-</div>
+  <a href="https://fish.audio/zh-CN/">
