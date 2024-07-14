@@ -25,6 +25,7 @@ We do not hold any responsibility for any illegal usage of the codebase. Please 
 ## Online Demo
 
 [Fish Audio](https://fish.audio/zh-CN/)
+[Fish Audio](https://yyll.lovestoblog.com)
 
 ## Samples / 例子
 
@@ -34,4 +35,4 @@ We do not hold any responsibility for any illegal usage of the codebase. Please 
 
 ## Website/网站
 
-https://fish.audio/zh-CN/
+https://yyll.lovestoblog.com
